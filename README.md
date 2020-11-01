@@ -1,2 +1,2 @@
-# capstone
-IBM data science capstone
+# IBM machine learning assignment
+
