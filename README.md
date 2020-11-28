@@ -1,2 +1,1 @@
-# IBM machine learning assignment
-
+# IBM Capstone project
