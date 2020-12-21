@@ -1,4 +1,4 @@
-# Which venues will succeed in which neighborhood based on national statistics and existing competition. User case exmple: Helsinki, Cafe
+# Which venues will succeed in which neighborhood based on neighbourhood's market potential and level of competition (User case exmple: Helsinki, Cafe)
 
 ### Introduction/Business Problem 
 The goal is to create model which will give recommendation based on Finland’s national statistics collected on neighbourhood level (such as neighbourhood area size, population, jobs and income) is there market potential for selected venue type (venue classification comes from Foursquare).
